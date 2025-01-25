@@ -1,0 +1,16 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A weather app which  makes API calls to OpenWeather to get real-time weather data. It also uses Node.js, and setup server with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shantanu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
